@@ -32,10 +32,6 @@
 
   **Auto-Origins** - YouTube creator, 5M+ views
 
-  ### How I think
-
-  I write the growth strategy AND debug the Stripe webhook. Early-stage founders should understand every layer of their system
-   - that's how you catch the bugs no one reports and ship faster than teams 10x your size.
 
   ### Currently exploring
 
