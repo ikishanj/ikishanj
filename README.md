@@ -8,7 +8,7 @@ After 6 years in startup growth marketing, I'm building full-stack products, mos
 
 ### What I'm building now
 
-**DanceHall Studios** â software for running independent dance studios
+**DanceHall Studios** software for running independent dance studios
 - **Sangs**, an AI studio assistant: announcements, materials, subscription changes, workshops, email flows, and expense logging
 - Actions follow propose, confirm, execute, with read-back verification to check what actually happened
 - Golden-conversation evals, prompt caching, and a weekly self-review cron
