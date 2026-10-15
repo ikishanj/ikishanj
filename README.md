@@ -1,6 +1,6 @@
 ## Hey, I'm Kishan Jangam
 
-Founder @ [CBB Labs](https://cbblabs.com). Building [DanceHall](https://mydancehall.com) for independent dance studios â live with paying studios, **2k MRR**.
+Founder @ [CBB Labs](https://cbblabs.com). Building [DanceHall](https://mydancehall.com) for independent dance studios live with paying studios, **2k MRR**.
 
 After 6 years in startup growth marketing, I'm building full-stack products, mostly by pairing with coding agents.
 
